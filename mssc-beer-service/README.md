@@ -1,1 +1,0 @@
-#MSSC Beer Service
