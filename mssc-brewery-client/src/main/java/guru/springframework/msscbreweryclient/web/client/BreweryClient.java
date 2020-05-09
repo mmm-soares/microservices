@@ -8,24 +8,25 @@ import org.springframework.web.client.RestTemplate;
 
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-04-23.
- */
-@ConfigurationProperties(prefix = "sfg.brewery", ignoreUnknownFields = false)
 @Component
+@ConfigurationProperties(value = "sfg.brewery", ignoreUnknownFields = false)
 public class BreweryClient {
 
-    public final String BEER_PATH_V1 = "/api/v1/beer/";
-    private String apihost;
+   private String BEER_PATH_V1 = "/api/v1/beer";
 
-    private final RestTemplate restTemplate;
+   private String apihost;
 
-    public BreweryClient(RestTemplateBuilder restTemplateBuilder) {
+   private final RestTemplate restTemplate;
+
+    public BreweryClient(RestTemplateBuilder restTemplateBuilder    ) {
         this.restTemplate = restTemplateBuilder.build();
     }
 
-    public BeerDto getBeerById(UUID uuid){
-        return restTemplate.getForObject(apihost + BEER_PATH_V1 + uuid.toString(), BeerDto.class);
+    public BeerDto getbeerbyId(UUID uuid){
+
+        System.out.println(apihost + "Teste######################################################");
+
+        return restTemplate.getForObject(apihost + BEER_PATH_V1 + uuid.toString(),BeerDto.class);
     }
 
     public void setApihost(String apihost) {
