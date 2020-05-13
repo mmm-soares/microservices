@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="252fdc48-05bc-4901-9557-5301eeb3c7b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bgRXaZq1NasT529y6uOs7aWF0v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mssc-beer-service" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="guru.springframework.msscbrewery.web.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BeerControllerTest.handlePost">
+    <configuration name="BeerControllerTest.getBeer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mssc-brewery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.msscbrewery.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.msscbrewery.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.msscbrewery.web.controller.BeerControllerTest" />
+      <option name="METHOD_NAME" value="getBeer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeerControllerTest.handlePost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mssc-brewery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.msscbrewery.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.msscbrewery.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.msscbrewery.web.controller.BeerControllerTest" />
+      <option name="METHOD_NAME" value="handlePost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsscBreweryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mssc-brewery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.msscbrewery.MsscBreweryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeerControllerTest.handlePost" />
+        <item itemvalue="JUnit.BeerControllerTest.getBeer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252fdc48-05bc-4901-9557-5301eeb3c7b8" name="Default Changelist" comment="" />
+      <created>1589051790362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589051790362</updated>
+      <workItem from="1589051793356" duration="627000" />
+      <workItem from="1589112088288" duration="6874000" />
+      <workItem from="1589274676645" duration="3279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589137855622">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1589137855622" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589276759311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589276759311" />
+    <state width="622" height="219" key="GridCell.Tab.0.bottom" timestamp="1589360024798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="622" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589360024798" />
+    <state width="622" height="219" key="GridCell.Tab.0.center" timestamp="1589360024798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="622" height="219" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589360024798" />
+    <state width="622" height="219" key="GridCell.Tab.0.left" timestamp="1589360024798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="622" height="219" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589360024798" />
+    <state width="622" height="219" key="GridCell.Tab.0.right" timestamp="1589360024798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="622" height="219" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589360024798" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1589235171413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589235171413" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1589235171413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589235171413" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1589235171413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589235171413" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1589235171413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589235171413" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1589235171400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589235171400" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1589235171400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1589235171400" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1589235171400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1589235171400" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1589235171400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1589235171400" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1589274701679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589274701679" />
+    <state x="363" y="127" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589137416030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="127" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1589137416030" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="&quot;/api/v1/beer/&quot; + savedDto.getId().toString())" />
+        <watch expression="&quot;/api/v1/beer/&quot; + savedDto.getId().toString()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
