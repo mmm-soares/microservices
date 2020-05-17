@@ -1,5 +1,8 @@
 package guru.springframework.msscbeerservice.web.model;
 
+/**
+ * Created by jt on 2019-05-12.
+ */
 public enum BeerStyleEnum {
-    LAGER, PISLSNER, ALE, STOUT, GOSE, IPA
+    LAGER, PILSNER, STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON
 }

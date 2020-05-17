@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4798ed39-34b0-479b-bea0-97762da85bc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/OrderStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/BaseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/BeerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/BeerOrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/BeerOrderLineDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/BeerOrderPagedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/OrderStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/model/OrderStatusUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/BeerOrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/BeerOrderServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/bootstrap/BeerOrderBootStrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/config/JmsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/config/LocalDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BeerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BeerOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BeerOrderEventEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/BeerOrderStatusEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/repositories/BeerOrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/repositories/BeerOrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/BeerOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/TastingRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/TastingRoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/beer/BeerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/beer/BeerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/beer/BeerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/beer/BeerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/listeners/BeerOrderAllocationResultListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/services/listeners/ValidationResultListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/BeerOrderStateChangeInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/BeerOrderStateMachineConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/actions/AllocateOrderAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/actions/AllocationFailureAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/actions/DeallocateOrderAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/actions/ValidateOrderAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/sm/actions/ValidationFailureAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/controllers/BeerOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/controllers/BeerOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/controllers/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderLineMapperDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/BeerOrderMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/beer/order/service/web/mappers/CustomerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/BeerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/BeerOrderDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/BeerOrderLineDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/BeerOrderPagedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/BeerPagedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/CustomerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/CustomerPagedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/OrderStatusUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/AllocateOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/AllocateOrderResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/AllocationFailureEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/DeallocateOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/ValidateOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/sfg/brewery/model/events/ValidateOrderResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-localmysql.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-local-discovery.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scripts/mysql-init.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/sfg/beer/order/service/services/BeerOrderManagerImplIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/sfg/beer/order/service/services/testcomponets/BeerOrderAllocationListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/sfg/beer/order/service/services/testcomponets/BeerOrderValidationListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1c2pNVigV8y1BYqQcST8F1qmZMy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BeerOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mssc-beer-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.sfg.beer.order.service.BeerOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4798ed39-34b0-479b-bea0-97762da85bc9" name="Default Changelist" comment="" />
+      <created>1589736502999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589736502999</updated>
+      <workItem from="1589736505898" duration="771000" />
+      <workItem from="1589737302153" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="44" width="587" height="592" key="find.popup" timestamp="1589736669710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="44" width="587" height="592" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589736669710" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589736707475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589736707475" />
+  </component>
+</project>
